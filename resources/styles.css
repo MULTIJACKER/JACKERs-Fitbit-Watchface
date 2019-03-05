@@ -1,0 +1,92 @@
+.background
+{
+  viewport-fill: black;
+}
+
+#Time
+{
+  font-size: 80;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: end;
+  x: 71%;
+  y: 50%;
+  fill: white;
+}
+
+#TimeSec
+{
+  font-size: 60;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: start;
+  x: 71%;
+  y: 50%;
+  fill: red;
+}
+
+#hrm-data-green
+{
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: green;
+}
+
+#hrm-data-yellow
+{
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: yellow;
+}
+
+#hrm-data-orange
+{
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: orange;
+}
+
+#hrm-data-red
+{
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: red;
+}
+
+#hrm-data-gray
+{
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 16;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: gray;
+}
+
+#dat
+{
+  font-size: 30;
+  font-family: Colfax;
+  text-length: 64;
+  text-anchor: middle;
+  x: 50%;
+  y: 90%;
+  fill: white;
+}

@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "a55e82c7-e605-48fe-8de0-a73431ab8771",
+    "appType": "clockface",
+    "appDisplayName": "JACKERs 2.0",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "JACKERs 2.0"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
