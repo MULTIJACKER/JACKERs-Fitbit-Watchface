@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "a55e82c7-e605-48fe-8de0-a73431ab8771",
     "appType": "clockface",
-    "appDisplayName": "JACKERs 2.0",
+    "appDisplayName": "JACKERs",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [
@@ -15,7 +15,7 @@
     ],
     "i18n": {
       "en": {
-        "name": "JACKERs 2.0"
+        "name": "JACKERs"
       }
     }
   },
